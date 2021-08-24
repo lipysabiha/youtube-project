@@ -17,10 +17,10 @@ import {
 } from "react-icons/fa";
 
 const Navbar = () => {
-    return ( <
-        Nav >
-        <
-        Logo to = "/" > ELIXR < /Logo>  <
+    return ( 
+        <Nav>
+        
+        <Logo to = "/" > ELIXR < /Logo>  <
         MenuBars / >
 
         <
